@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hearthsfx/app/precache-manifest.5fbe895a2f3d1b847385d3fbc20669da.js"
+  "/hearthsfx/precache-manifest.30f05568451e877ad26484f34d0b7415.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("\\hearthsfx\\app\\index.html", {
+workbox.routing.registerNavigationRoute("\\hearthsfx\\index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
