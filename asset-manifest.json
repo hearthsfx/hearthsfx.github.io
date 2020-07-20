@@ -1,23 +1,23 @@
 {
   "files": {
-    "app.js": "/hearthsfx/static/js/app.b9e9f28c.chunk.js",
-    "app.js.map": "/hearthsfx/static/js/app.b9e9f28c.chunk.js.map",
+    "app.js": "/hearthsfx/static/js/app.0973cb95.chunk.js",
+    "app.js.map": "/hearthsfx/static/js/app.0973cb95.chunk.js.map",
     "runtime~app.js": "/hearthsfx/static/js/runtime~app.2233f3f8.js",
     "runtime~app.js.map": "/hearthsfx/static/js/runtime~app.2233f3f8.js.map",
-    "static/js/2.1e861128.chunk.js": "/hearthsfx/static/js/2.1e861128.chunk.js",
-    "static/js/2.1e861128.chunk.js.map": "/hearthsfx/static/js/2.1e861128.chunk.js.map",
+    "static/js/2.37dd0ca6.chunk.js": "/hearthsfx/static/js/2.37dd0ca6.chunk.js",
+    "static/js/2.37dd0ca6.chunk.js.map": "/hearthsfx/static/js/2.37dd0ca6.chunk.js.map",
     "favicon-16.png": "/hearthsfx/favicon-16.png",
     "favicon-32.png": "/hearthsfx/favicon-32.png",
     "favicon.ico": "/hearthsfx/favicon.ico",
     "index.html": "/hearthsfx/index.html",
     "manifest.json": "/hearthsfx/manifest.json",
     "serve.json": "/hearthsfx/serve.json",
-    "static/js/2.1e861128.chunk.js.LICENSE.txt": "/hearthsfx/static/js/2.1e861128.chunk.js.LICENSE.txt",
+    "static/js/2.37dd0ca6.chunk.js.LICENSE.txt": "/hearthsfx/static/js/2.37dd0ca6.chunk.js.LICENSE.txt",
     "static/media/class_small_neutral.png": "/hearthsfx/static/media/class_small_neutral.d25d7174.png"
   },
   "entrypoints": [
     "static/js/runtime~app.2233f3f8.js",
-    "static/js/2.1e861128.chunk.js",
-    "static/js/app.b9e9f28c.chunk.js"
+    "static/js/2.37dd0ca6.chunk.js",
+    "static/js/app.0973cb95.chunk.js"
   ]
 }
