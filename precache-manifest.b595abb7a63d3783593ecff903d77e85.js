@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "c7a7f532efa37593ba28",
-    "url": "/hearthsfx/static/js/app.b0c4507e.chunk.js"
+    "revision": "87eb33ca553ef8964355",
+    "url": "/hearthsfx/static/js/app.62577723.chunk.js"
   },
   {
     "revision": "e0e75b1ecd8ea3abdea1",
     "url": "/hearthsfx/static/js/runtime~app.2233f3f8.js"
   },
   {
-    "revision": "46df8075f1b1de8b2dfe",
-    "url": "/hearthsfx/static/js/2.c20a4725.chunk.js"
+    "revision": "01780826d82ea6fa8e8e",
+    "url": "/hearthsfx/static/js/2.1af47ce5.chunk.js"
   },
   {
     "revision": "4a68b6f7dcd43dbeace8493c75322571",
@@ -26,10 +26,6 @@ self.__precacheManifest = [
   {
     "revision": "5f0d17ad2a983442fce3b354e7a60914",
     "url": "/hearthsfx/static/media/class_small_mage.9b3b210e.png"
-  },
-  {
-    "revision": "e2fdb0dec4f7c3e792bf387a1f226fb2",
-    "url": "/hearthsfx/static/media/class_small_neutral.d25d7174.png"
   },
   {
     "revision": "c235dd4ddf5ccdc5a9468323cf28fb99",
@@ -56,11 +52,15 @@ self.__precacheManifest = [
     "url": "/hearthsfx/static/media/class_small_warrior.8656e5cc.png"
   },
   {
+    "revision": "e2fdb0dec4f7c3e792bf387a1f226fb2",
+    "url": "/hearthsfx/static/media/class_small_neutral.d25d7174.png"
+  },
+  {
     "revision": "f3f68bf5b7dce8acae55c25f724625dd",
     "url": "/hearthsfx/expo-service-worker.js"
   },
   {
-    "revision": "773801592b270f165f4befd62358b2ef",
+    "revision": "86163a1f768faecab305bfa3b736eb31",
     "url": "/hearthsfx/index.html"
   },
   {
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/hearthsfx/serve.json"
   },
   {
-    "revision": "a990a8c98c379b1c14de33443329d80a",
-    "url": "/hearthsfx/static/js/2.c20a4725.chunk.js.LICENSE.txt"
+    "revision": "89c707c57339a57caf1b5b0adefce795",
+    "url": "/hearthsfx/static/js/2.1af47ce5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "71033553ddc0843407efe54c23890fe2",
