@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/hearthsfx/static/js/app.bfbe0a45.chunk.js",
-    "app.js.map": "/hearthsfx/static/js/app.bfbe0a45.chunk.js.map",
+    "app.js": "/hearthsfx/static/js/app.08a1427a.chunk.js",
+    "app.js.map": "/hearthsfx/static/js/app.08a1427a.chunk.js.map",
     "runtime~app.js": "/hearthsfx/static/js/runtime~app.2233f3f8.js",
     "runtime~app.js.map": "/hearthsfx/static/js/runtime~app.2233f3f8.js.map",
-    "static/js/2.c490b6ac.chunk.js": "/hearthsfx/static/js/2.c490b6ac.chunk.js",
-    "static/js/2.c490b6ac.chunk.js.map": "/hearthsfx/static/js/2.c490b6ac.chunk.js.map",
+    "static/js/2.50b8eb73.chunk.js": "/hearthsfx/static/js/2.50b8eb73.chunk.js",
+    "static/js/2.50b8eb73.chunk.js.map": "/hearthsfx/static/js/2.50b8eb73.chunk.js.map",
     "fonts/Entypo.ttf": "/hearthsfx/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/hearthsfx/./fonts/Feather.ttf",
     "fonts/FontAwesome.ttf": "/hearthsfx/./fonts/FontAwesome.ttf",
@@ -20,7 +20,7 @@
     "index.html": "/hearthsfx/index.html",
     "manifest.json": "/hearthsfx/manifest.json",
     "serve.json": "/hearthsfx/serve.json",
-    "static/js/2.c490b6ac.chunk.js.LICENSE.txt": "/hearthsfx/static/js/2.c490b6ac.chunk.js.LICENSE.txt",
+    "static/js/2.50b8eb73.chunk.js.LICENSE.txt": "/hearthsfx/static/js/2.50b8eb73.chunk.js.LICENSE.txt",
     "static/media/BOTIcon.png": "/hearthsfx/static/media/BOTIcon.e5ff7520.png",
     "static/media/BRMIcon.png": "/hearthsfx/static/media/BRMIcon.446540f2.png",
     "static/media/BTIcon.png": "/hearthsfx/static/media/BTIcon.1c69bd42.png",
@@ -58,7 +58,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2233f3f8.js",
-    "static/js/2.c490b6ac.chunk.js",
-    "static/js/app.bfbe0a45.chunk.js"
+    "static/js/2.50b8eb73.chunk.js",
+    "static/js/app.08a1427a.chunk.js"
   ]
 }
