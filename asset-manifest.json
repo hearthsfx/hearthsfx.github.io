@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/hearthsfx/static/js/app.50133515.chunk.js",
-    "app.js.map": "/hearthsfx/static/js/app.50133515.chunk.js.map",
+    "app.js": "/hearthsfx/static/js/app.316ed5f8.chunk.js",
+    "app.js.map": "/hearthsfx/static/js/app.316ed5f8.chunk.js.map",
     "runtime~app.js": "/hearthsfx/static/js/runtime~app.2233f3f8.js",
     "runtime~app.js.map": "/hearthsfx/static/js/runtime~app.2233f3f8.js.map",
     "static/js/2.969f8743.chunk.js": "/hearthsfx/static/js/2.969f8743.chunk.js",
@@ -33,7 +33,7 @@
     "static/media/GvGIcon.png": "/hearthsfx/static/media/GvGIcon.8743247a.png",
     "static/media/HallOfFameIcon.png": "/hearthsfx/static/media/HallOfFameIcon.37379c27.png",
     "static/media/ICCIcon.png": "/hearthsfx/static/media/ICCIcon.45a747ea.png",
-    "static/media/KaraIcon.png": "/hearthsfx/static/media/KaraIcon.2a7eed4a.png",
+    "static/media/KaraIcon.png": "/hearthsfx/static/media/KaraIcon.c214d778.png",
     "static/media/LOEIcon.png": "/hearthsfx/static/media/LOEIcon.9975dfb8.png",
     "static/media/LOOTIcon.png": "/hearthsfx/static/media/LOOTIcon.edfb0176.png",
     "static/media/NaxxIcon.png": "/hearthsfx/static/media/NaxxIcon.3b105f8e.png",
@@ -44,7 +44,7 @@
     "static/media/TRLIcon.png": "/hearthsfx/static/media/TRLIcon.a700a78e.png",
     "static/media/UNGIcon.png": "/hearthsfx/static/media/UNGIcon.01f6a5f3.png",
     "static/media/UldumIcon.png": "/hearthsfx/static/media/UldumIcon.76a3f13f.png",
-    "static/media/class_small_demonhunter.png": "/hearthsfx/static/media/class_small_demonhunter.eb8a1ac7.png",
+    "static/media/class_small_demonhunter.png": "/hearthsfx/static/media/class_small_demonhunter.27bc28b0.png",
     "static/media/class_small_druid.png": "/hearthsfx/static/media/class_small_druid.b2cf4d40.png",
     "static/media/class_small_hunter.png": "/hearthsfx/static/media/class_small_hunter.982db222.png",
     "static/media/class_small_mage.png": "/hearthsfx/static/media/class_small_mage.9b3b210e.png",
@@ -59,6 +59,6 @@
   "entrypoints": [
     "static/js/runtime~app.2233f3f8.js",
     "static/js/2.969f8743.chunk.js",
-    "static/js/app.50133515.chunk.js"
+    "static/js/app.316ed5f8.chunk.js"
   ]
 }

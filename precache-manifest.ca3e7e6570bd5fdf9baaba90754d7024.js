@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "3c72e5747ee94c96e43a",
-    "url": "/hearthsfx/static/js/app.50133515.chunk.js"
+    "revision": "d0e659767c2ba2a1d32e",
+    "url": "/hearthsfx/static/js/app.316ed5f8.chunk.js"
   },
   {
     "revision": "e0e75b1ecd8ea3abdea1",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/hearthsfx/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "4a68b6f7dcd43dbeace8493c75322571",
-    "url": "/hearthsfx/static/media/class_small_demonhunter.eb8a1ac7.png"
+    "revision": "cac0696d39f945c2424a76bef01dcb64",
+    "url": "/hearthsfx/static/media/class_small_demonhunter.27bc28b0.png"
   },
   {
     "revision": "8e4f71025da9f9e3698d4718dbb73cc0",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "url": "/hearthsfx/static/media/OGIcon.53624503.png"
   },
   {
-    "revision": "eef1ab9f98be548104197e471474f711",
-    "url": "/hearthsfx/static/media/KaraIcon.2a7eed4a.png"
+    "revision": "1e4e6c526b49ae60b6ada2db7da20fd1",
+    "url": "/hearthsfx/static/media/KaraIcon.c214d778.png"
   },
   {
     "revision": "1e85411cb40c5e05a6c965046f3b1686",
@@ -184,7 +184,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx/expo-service-worker.js"
   },
   {
-    "revision": "c796992cf0abc7b2ed5ea1cfafffa72c",
+    "revision": "5fd7154d7f25d9787e7ed0cf398a5460",
     "url": "/hearthsfx/index.html"
   },
   {
