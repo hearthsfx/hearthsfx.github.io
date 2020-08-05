@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d0e659767c2ba2a1d32e",
-    "url": "/hearthsfx/static/js/app.316ed5f8.chunk.js"
+    "revision": "c3031f09fff9c11b9471",
+    "url": "/hearthsfx/static/js/app.96e5653d.chunk.js"
   },
   {
     "revision": "e0e75b1ecd8ea3abdea1",
     "url": "/hearthsfx/static/js/runtime~app.2233f3f8.js"
   },
   {
-    "revision": "c5a606e010ecdb93c3d0",
-    "url": "/hearthsfx/static/js/2.969f8743.chunk.js"
+    "revision": "5341767ef1f4bd818a65",
+    "url": "/hearthsfx/static/js/2.f8cae0c6.chunk.js"
   },
   {
     "revision": "be775a6ef238702405d0fed963e43044",
     "url": "/hearthsfx/static/media/Set1_Icon.ac32ff2e.png"
+  },
+  {
+    "revision": "b2e0fc821c6886fb3940f85a3320003e",
+    "url": "/hearthsfx/./fonts/Ionicons.ttf"
   },
   {
     "revision": "744ce60078c17d86006dd0edabcd59a7",
@@ -30,10 +34,6 @@ self.__precacheManifest = [
   {
     "revision": "e20945d7c929279ef7a6f1db184a4470",
     "url": "/hearthsfx/./fonts/Foundation.ttf"
-  },
-  {
-    "revision": "b2e0fc821c6886fb3940f85a3320003e",
-    "url": "/hearthsfx/./fonts/Ionicons.ttf"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
@@ -180,11 +180,27 @@ self.__precacheManifest = [
     "url": "/hearthsfx/static/media/SCHIcon.5e6aa75c.png"
   },
   {
-    "revision": "f3f68bf5b7dce8acae55c25f724625dd",
+    "revision": "3a2ba31570920eeb9b1d217cabe58315",
+    "url": "/hearthsfx/./fonts/AntDesign.ttf"
+  },
+  {
+    "revision": "c39278f7abfc798a241551194f55e29f",
+    "url": "/hearthsfx/./fonts/FontAwesome5_Brands.ttf"
+  },
+  {
+    "revision": "b70cea0339374107969eb53e5b1f603f",
+    "url": "/hearthsfx/./fonts/FontAwesome5_Solid.ttf"
+  },
+  {
+    "revision": "b49ae8ab2dbccb02c4d11caaacf09eab",
+    "url": "/hearthsfx/./fonts/Fontisto.ttf"
+  },
+  {
+    "revision": "f328c398676e066fb4e76f0c028592b4",
     "url": "/hearthsfx/expo-service-worker.js"
   },
   {
-    "revision": "5fd7154d7f25d9787e7ed0cf398a5460",
+    "revision": "ca3c6e773d73ff420fcda93dd8dbb330",
     "url": "/hearthsfx/index.html"
   },
   {
@@ -197,7 +213,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "89c707c57339a57caf1b5b0adefce795",
-    "url": "/hearthsfx/static/js/2.969f8743.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx/static/js/2.f8cae0c6.chunk.js.LICENSE.txt"
   },
   {
     "revision": "71033553ddc0843407efe54c23890fe2",

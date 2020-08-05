@@ -1,14 +1,18 @@
 {
   "files": {
-    "app.js": "/hearthsfx/static/js/app.316ed5f8.chunk.js",
-    "app.js.map": "/hearthsfx/static/js/app.316ed5f8.chunk.js.map",
+    "app.js": "/hearthsfx/static/js/app.96e5653d.chunk.js",
+    "app.js.map": "/hearthsfx/static/js/app.96e5653d.chunk.js.map",
     "runtime~app.js": "/hearthsfx/static/js/runtime~app.2233f3f8.js",
     "runtime~app.js.map": "/hearthsfx/static/js/runtime~app.2233f3f8.js.map",
-    "static/js/2.969f8743.chunk.js": "/hearthsfx/static/js/2.969f8743.chunk.js",
-    "static/js/2.969f8743.chunk.js.map": "/hearthsfx/static/js/2.969f8743.chunk.js.map",
+    "static/js/2.f8cae0c6.chunk.js": "/hearthsfx/static/js/2.f8cae0c6.chunk.js",
+    "static/js/2.f8cae0c6.chunk.js.map": "/hearthsfx/static/js/2.f8cae0c6.chunk.js.map",
+    "fonts/AntDesign.ttf": "/hearthsfx/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/hearthsfx/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/hearthsfx/./fonts/Feather.ttf",
     "fonts/FontAwesome.ttf": "/hearthsfx/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/hearthsfx/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/hearthsfx/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/hearthsfx/./fonts/Fontisto.ttf",
     "fonts/Foundation.ttf": "/hearthsfx/./fonts/Foundation.ttf",
     "fonts/Ionicons.ttf": "/hearthsfx/./fonts/Ionicons.ttf",
     "fonts/MaterialCommunityIcons.ttf": "/hearthsfx/./fonts/MaterialCommunityIcons.ttf",
@@ -20,7 +24,7 @@
     "index.html": "/hearthsfx/index.html",
     "manifest.json": "/hearthsfx/manifest.json",
     "serve.json": "/hearthsfx/serve.json",
-    "static/js/2.969f8743.chunk.js.LICENSE.txt": "/hearthsfx/static/js/2.969f8743.chunk.js.LICENSE.txt",
+    "static/js/2.f8cae0c6.chunk.js.LICENSE.txt": "/hearthsfx/static/js/2.f8cae0c6.chunk.js.LICENSE.txt",
     "static/media/BOTIcon.png": "/hearthsfx/static/media/BOTIcon.e5ff7520.png",
     "static/media/BRMIcon.png": "/hearthsfx/static/media/BRMIcon.446540f2.png",
     "static/media/BTIcon.png": "/hearthsfx/static/media/BTIcon.1c69bd42.png",
@@ -58,7 +62,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2233f3f8.js",
-    "static/js/2.969f8743.chunk.js",
-    "static/js/app.316ed5f8.chunk.js"
+    "static/js/2.f8cae0c6.chunk.js",
+    "static/js/app.96e5653d.chunk.js"
   ]
 }
