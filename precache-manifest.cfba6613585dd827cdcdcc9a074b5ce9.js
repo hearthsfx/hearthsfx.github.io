@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "c3031f09fff9c11b9471",
-    "url": "/hearthsfx/static/js/app.96e5653d.chunk.js"
+    "revision": "827246bc80df9272888f",
+    "url": "/hearthsfx/static/js/app.a345397b.chunk.js"
   },
   {
     "revision": "e0e75b1ecd8ea3abdea1",
     "url": "/hearthsfx/static/js/runtime~app.2233f3f8.js"
   },
   {
-    "revision": "5341767ef1f4bd818a65",
-    "url": "/hearthsfx/static/js/2.f8cae0c6.chunk.js"
+    "revision": "d0e475ada1d961cc60d2",
+    "url": "/hearthsfx/static/js/2.0ad94480.chunk.js"
   },
   {
     "revision": "be775a6ef238702405d0fed963e43044",
@@ -200,7 +200,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx/expo-service-worker.js"
   },
   {
-    "revision": "ca3c6e773d73ff420fcda93dd8dbb330",
+    "revision": "c165a166d2892b7b28aacaedb185d0ff",
     "url": "/hearthsfx/index.html"
   },
   {
@@ -213,7 +213,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "89c707c57339a57caf1b5b0adefce795",
-    "url": "/hearthsfx/static/js/2.f8cae0c6.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx/static/js/2.0ad94480.chunk.js.LICENSE.txt"
   },
   {
     "revision": "71033553ddc0843407efe54c23890fe2",
