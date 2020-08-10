@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/hearthsfx/static/js/app.a345397b.chunk.js",
-    "app.js.map": "/hearthsfx/static/js/app.a345397b.chunk.js.map",
+    "app.js": "/hearthsfx/static/js/app.905437af.chunk.js",
+    "app.js.map": "/hearthsfx/static/js/app.905437af.chunk.js.map",
     "runtime~app.js": "/hearthsfx/static/js/runtime~app.2233f3f8.js",
     "runtime~app.js.map": "/hearthsfx/static/js/runtime~app.2233f3f8.js.map",
-    "static/js/2.0ad94480.chunk.js": "/hearthsfx/static/js/2.0ad94480.chunk.js",
-    "static/js/2.0ad94480.chunk.js.map": "/hearthsfx/static/js/2.0ad94480.chunk.js.map",
+    "static/js/2.024da274.chunk.js": "/hearthsfx/static/js/2.024da274.chunk.js",
+    "static/js/2.024da274.chunk.js.map": "/hearthsfx/static/js/2.024da274.chunk.js.map",
     "fonts/AntDesign.ttf": "/hearthsfx/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/hearthsfx/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/hearthsfx/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/hearthsfx/index.html",
     "manifest.json": "/hearthsfx/manifest.json",
     "serve.json": "/hearthsfx/serve.json",
-    "static/js/2.0ad94480.chunk.js.LICENSE.txt": "/hearthsfx/static/js/2.0ad94480.chunk.js.LICENSE.txt",
+    "static/js/2.024da274.chunk.js.LICENSE.txt": "/hearthsfx/static/js/2.024da274.chunk.js.LICENSE.txt",
     "static/media/BOTIcon.png": "/hearthsfx/static/media/BOTIcon.e5ff7520.png",
     "static/media/BRMIcon.png": "/hearthsfx/static/media/BRMIcon.446540f2.png",
     "static/media/BTIcon.png": "/hearthsfx/static/media/BTIcon.1c69bd42.png",
@@ -62,7 +62,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2233f3f8.js",
-    "static/js/2.0ad94480.chunk.js",
-    "static/js/app.a345397b.chunk.js"
+    "static/js/2.024da274.chunk.js",
+    "static/js/app.905437af.chunk.js"
   ]
 }
