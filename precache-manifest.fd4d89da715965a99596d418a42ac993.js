@@ -1,51 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "1d8e70f29530dbb58621",
-    "url": "/hearthsfx/static/js/app.905437af.chunk.js"
+    "revision": "676be20aca84edcc92d0",
+    "url": "/hearthsfx/static/js/app.2d53f5f0.chunk.js"
   },
   {
     "revision": "e0e75b1ecd8ea3abdea1",
     "url": "/hearthsfx/static/js/runtime~app.2233f3f8.js"
   },
   {
-    "revision": "6263a5bd46e8e97d574a",
-    "url": "/hearthsfx/static/js/2.024da274.chunk.js"
-  },
-  {
-    "revision": "be775a6ef238702405d0fed963e43044",
-    "url": "/hearthsfx/static/media/Set1_Icon.ac32ff2e.png"
-  },
-  {
-    "revision": "b2e0fc821c6886fb3940f85a3320003e",
-    "url": "/hearthsfx/./fonts/Ionicons.ttf"
-  },
-  {
-    "revision": "744ce60078c17d86006dd0edabcd59a7",
-    "url": "/hearthsfx/./fonts/Entypo.ttf"
-  },
-  {
-    "revision": "ca9ce9ff0676a9b04ef0f8a3ad17dd08",
-    "url": "/hearthsfx/./fonts/Feather.ttf"
-  },
-  {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/hearthsfx/./fonts/FontAwesome.ttf"
-  },
-  {
-    "revision": "e20945d7c929279ef7a6f1db184a4470",
-    "url": "/hearthsfx/./fonts/Foundation.ttf"
-  },
-  {
-    "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
-    "url": "/hearthsfx/./fonts/MaterialIcons.ttf"
-  },
-  {
-    "revision": "3c851d60ad5ef3f2fe43ebd263490d78",
-    "url": "/hearthsfx/./fonts/MaterialCommunityIcons.ttf"
-  },
-  {
-    "revision": "d2285965fe34b05465047401b8595dd0",
-    "url": "/hearthsfx/./fonts/SimpleLineIcons.ttf"
+    "revision": "c0c9bfe27ad610e98548",
+    "url": "/hearthsfx/static/js/2.f302543f.chunk.js"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -90,6 +54,42 @@ self.__precacheManifest = [
   {
     "revision": "e2fdb0dec4f7c3e792bf387a1f226fb2",
     "url": "/hearthsfx/static/media/class_small_neutral.d25d7174.png"
+  },
+  {
+    "revision": "be775a6ef238702405d0fed963e43044",
+    "url": "/hearthsfx/static/media/Set1_Icon.ac32ff2e.png"
+  },
+  {
+    "revision": "b2e0fc821c6886fb3940f85a3320003e",
+    "url": "/hearthsfx/./fonts/Ionicons.ttf"
+  },
+  {
+    "revision": "744ce60078c17d86006dd0edabcd59a7",
+    "url": "/hearthsfx/./fonts/Entypo.ttf"
+  },
+  {
+    "revision": "ca9ce9ff0676a9b04ef0f8a3ad17dd08",
+    "url": "/hearthsfx/./fonts/Feather.ttf"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/hearthsfx/./fonts/FontAwesome.ttf"
+  },
+  {
+    "revision": "e20945d7c929279ef7a6f1db184a4470",
+    "url": "/hearthsfx/./fonts/Foundation.ttf"
+  },
+  {
+    "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
+    "url": "/hearthsfx/./fonts/MaterialIcons.ttf"
+  },
+  {
+    "revision": "3c851d60ad5ef3f2fe43ebd263490d78",
+    "url": "/hearthsfx/./fonts/MaterialCommunityIcons.ttf"
+  },
+  {
+    "revision": "d2285965fe34b05465047401b8595dd0",
+    "url": "/hearthsfx/./fonts/SimpleLineIcons.ttf"
   },
   {
     "revision": "1d69b9589be26c85d295fd8d3a98da58",
@@ -200,7 +200,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx/expo-service-worker.js"
   },
   {
-    "revision": "5ad6ac539a74f31a1fa0d474d26f9bd7",
+    "revision": "8b8a53f0b0d4a63a9c455f1527ae23ec",
     "url": "/hearthsfx/index.html"
   },
   {
@@ -213,7 +213,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "89c707c57339a57caf1b5b0adefce795",
-    "url": "/hearthsfx/static/js/2.024da274.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx/static/js/2.f302543f.chunk.js.LICENSE.txt"
   },
   {
     "revision": "71033553ddc0843407efe54c23890fe2",
