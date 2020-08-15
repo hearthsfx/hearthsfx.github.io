@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "95c3708564902758f6a4",
-    "url": "/hearthsfx.github.io/static/js/app.3e458090.chunk.js"
+    "revision": "6d266165e90cfc3a7dba",
+    "url": "/hearthsfx.github.io/static/js/app.d2e0f3eb.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
@@ -212,7 +212,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/expo-service-worker.js"
   },
   {
-    "revision": "49b2376cec9923021cfe813cdee1c6fd",
+    "revision": "158d618130f0b075c833ddaa86692ec2",
     "url": "/hearthsfx.github.io/index.html"
   },
   {
