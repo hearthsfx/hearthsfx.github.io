@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "6d266165e90cfc3a7dba",
-    "url": "/hearthsfx.github.io/static/js/app.d2e0f3eb.chunk.js"
+    "revision": "7792598377a27136f9bf",
+    "url": "/hearthsfx.github.io/static/js/app.c55ac778.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
     "url": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js"
   },
   {
-    "revision": "51e23b6d680736e17f92",
-    "url": "/hearthsfx.github.io/static/js/2.69015821.chunk.js"
+    "revision": "b505c62332bdfc4d8307",
+    "url": "/hearthsfx.github.io/static/js/2.7377c6d9.chunk.js"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -90,6 +90,54 @@ self.__precacheManifest = [
   {
     "revision": "d2285965fe34b05465047401b8595dd0",
     "url": "/hearthsfx.github.io/./fonts/SimpleLineIcons.ttf"
+  },
+  {
+    "revision": "321de678e592d0b8f44f1a82d7ca4b62",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_100Thin.ttf"
+  },
+  {
+    "revision": "35a9c89aff1396595ad345e378a32aca",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_100Thin_Italic.ttf"
+  },
+  {
+    "revision": "88823c2015ffd5fa89d567e17297a137",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_300Light.ttf"
+  },
+  {
+    "revision": "a3ce4440f2abf76f4a1b14b83920138c",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_300Light_Italic.ttf"
+  },
+  {
+    "revision": "11eabca2251325cfc5589c9c6fb57b46",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_400Regular.ttf"
+  },
+  {
+    "revision": "a720f17aa773e493a7ebf8b08459e66c",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_400Regular_Italic.ttf"
+  },
+  {
+    "revision": "58aef543c97bbaf6a9896e8484456d98",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_500Medium.ttf"
+  },
+  {
+    "revision": "cf23e1bb619029496260760b72aebd30",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_500Medium_Italic.ttf"
+  },
+  {
+    "revision": "e07df86cef2e721115583d61d1fb68a6",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_700Bold.ttf"
+  },
+  {
+    "revision": "5b44818d2b9eda3e23cd5edd7b49b7d5",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_700Bold_Italic.ttf"
+  },
+  {
+    "revision": "5ebb24ee1112dd9562629375c387879a",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_900Black.ttf"
+  },
+  {
+    "revision": "99682a78fa4fe61e1177b94757336bbf",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_900Black_Italic.ttf"
   },
   {
     "revision": "4e15a2939a15dc5567da51d68116417c",
@@ -212,7 +260,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/expo-service-worker.js"
   },
   {
-    "revision": "158d618130f0b075c833ddaa86692ec2",
+    "revision": "4035044ffbf675941096e2f3d8f7e881",
     "url": "/hearthsfx.github.io/index.html"
   },
   {
@@ -225,7 +273,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "89c707c57339a57caf1b5b0adefce795",
-    "url": "/hearthsfx.github.io/static/js/2.69015821.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx.github.io/static/js/2.7377c6d9.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
