@@ -1,1 +1,1 @@
-"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/hearthsfx/expo-service-worker.js",{scope:"/hearthsfx/"}).then((function(e){})).catch((function(e){console.info("Failed to register service-worker",e)}))}));
+"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/hearthsfx.github.io/expo-service-worker.js",{scope:"/hearthsfx.github.io/"}).then((function(e){})).catch((function(e){console.info("Failed to register service-worker",e)}))}));
