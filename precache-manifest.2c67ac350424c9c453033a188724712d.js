@@ -1,15 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "57f50feb83e708a37eb8",
-    "url": "/hearthsfx.github.io/static/js/app.4fce0b1c.chunk.js"
+    "revision": "d5b79026ec200f964afe",
+    "url": "/hearthsfx.github.io/static/js/app.b016775f.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
     "url": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js"
   },
   {
-    "revision": "fd1fc7319a3802385143",
-    "url": "/hearthsfx.github.io/static/js/2.36321d98.chunk.js"
+    "revision": "afb63be4993f3095e0c0",
+    "url": "/hearthsfx.github.io/static/js/2.4256c6b5.chunk.js"
+  },
+  {
+    "revision": "75cd4693edc1d35ea56b9a65d7926a18",
+    "url": "/hearthsfx.github.io/static/media/exclude.46c8feb2.png"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -92,6 +96,18 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/./fonts/SimpleLineIcons.ttf"
   },
   {
+    "revision": "4e15a2939a15dc5567da51d68116417c",
+    "url": "/hearthsfx.github.io/static/media/kofi.96681ac5.png"
+  },
+  {
+    "revision": "8f8d12b8691a706a99e7544bd33527c2",
+    "url": "/hearthsfx.github.io/static/media/bitcoin.ab09bc27.png"
+  },
+  {
+    "revision": "eeff16cc73d9458c9a865ddb1542c34d",
+    "url": "/hearthsfx.github.io/static/media/litecoin.e0409b43.png"
+  },
+  {
     "revision": "321de678e592d0b8f44f1a82d7ca4b62",
     "url": "/hearthsfx.github.io/./fonts/Roboto_100Thin.ttf"
   },
@@ -140,16 +156,20 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/./fonts/Roboto_900Black_Italic.ttf"
   },
   {
-    "revision": "4e15a2939a15dc5567da51d68116417c",
-    "url": "/hearthsfx.github.io/static/media/kofi.96681ac5.png"
+    "revision": "65b22f0323723ac333a398b6c74f71e5",
+    "url": "/hearthsfx.github.io/static/media/common_gem_small.c3cb9701.png"
   },
   {
-    "revision": "8f8d12b8691a706a99e7544bd33527c2",
-    "url": "/hearthsfx.github.io/static/media/bitcoin.ab09bc27.png"
+    "revision": "c6c5e26fb0e4601e6ea27d19bc176e56",
+    "url": "/hearthsfx.github.io/static/media/rare_gem_small.f2054728.png"
   },
   {
-    "revision": "eeff16cc73d9458c9a865ddb1542c34d",
-    "url": "/hearthsfx.github.io/static/media/litecoin.e0409b43.png"
+    "revision": "b07f901f15229a0650405f6d96fc7c0d",
+    "url": "/hearthsfx.github.io/static/media/epic_gem_small.2056dd5b.png"
+  },
+  {
+    "revision": "eaaea84078817b865a400a68a29c7c87",
+    "url": "/hearthsfx.github.io/static/media/legendary_gem_small.60d2f3cd.png"
   },
   {
     "revision": "1d69b9589be26c85d295fd8d3a98da58",
@@ -260,7 +280,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/expo-service-worker.js"
   },
   {
-    "revision": "d159c7192563e5d2ccbc8ec0ca978f8d",
+    "revision": "15ab42d2a5412358e4cd1dd719485374",
     "url": "/hearthsfx.github.io/index.html"
   },
   {
@@ -273,7 +293,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "3c944d27a8e8bea454129d0bca04be04",
-    "url": "/hearthsfx.github.io/static/js/2.36321d98.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx.github.io/static/js/2.4256c6b5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
