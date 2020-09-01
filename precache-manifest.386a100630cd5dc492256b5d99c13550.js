@@ -1,19 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "9a355fd7dc1539c7db89",
-    "url": "/hearthsfx.github.io/static/js/app.624bd439.chunk.js"
+    "revision": "a06f349f9411e267d29f",
+    "url": "/hearthsfx.github.io/static/js/app.576410b1.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
     "url": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js"
   },
   {
-    "revision": "afb63be4993f3095e0c0",
-    "url": "/hearthsfx.github.io/static/js/2.4256c6b5.chunk.js"
-  },
-  {
-    "revision": "75cd4693edc1d35ea56b9a65d7926a18",
-    "url": "/hearthsfx.github.io/static/media/exclude.46c8feb2.png"
+    "revision": "3a11f979962de61d0c06",
+    "url": "/hearthsfx.github.io/static/js/2.d1521a3b.chunk.js"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -60,8 +56,68 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/static/media/class_small_neutral.d25d7174.png"
   },
   {
+    "revision": "75cd4693edc1d35ea56b9a65d7926a18",
+    "url": "/hearthsfx.github.io/static/media/exclude.46c8feb2.png"
+  },
+  {
     "revision": "be775a6ef238702405d0fed963e43044",
     "url": "/hearthsfx.github.io/static/media/Set1_Icon.ac32ff2e.png"
+  },
+  {
+    "revision": "7e1532abf914f85af109e48d6d9c90e8",
+    "url": "/hearthsfx.github.io/static/media/techlevel1.4166ac56.png"
+  },
+  {
+    "revision": "8812ad9f4fa294c29860a4ab6589f979",
+    "url": "/hearthsfx.github.io/static/media/techlevel2.70945d7d.png"
+  },
+  {
+    "revision": "0a5a4a8f70f7bedfbaf0b68e20934cd0",
+    "url": "/hearthsfx.github.io/static/media/techlevel3.aee75764.png"
+  },
+  {
+    "revision": "1ebcc8998f3cdc393a31937f07385bda",
+    "url": "/hearthsfx.github.io/static/media/techlevel4.ad86b855.png"
+  },
+  {
+    "revision": "f723a9f57d44c62ea8126452b9ab6dfc",
+    "url": "/hearthsfx.github.io/static/media/techlevel5.deed6cbf.png"
+  },
+  {
+    "revision": "c7240a12c3af209a727fdd3316c8ff4f",
+    "url": "/hearthsfx.github.io/static/media/techlevel6.7c39b1aa.png"
+  },
+  {
+    "revision": "ba9cd7334f6e0f9785b86c7a6a840455",
+    "url": "/hearthsfx.github.io/static/media/techlevel0.fa35e5fc.png"
+  },
+  {
+    "revision": "2001f24a1a745c60df187c1597dcaa50",
+    "url": "/hearthsfx.github.io/static/media/bg_beasts.66b989b5.png"
+  },
+  {
+    "revision": "b0346a4611d465c8452cf315dfe73d64",
+    "url": "/hearthsfx.github.io/static/media/bg_demons.3aa3db7d.png"
+  },
+  {
+    "revision": "f8b7092b69cddd8b545aa9b1502b1519",
+    "url": "/hearthsfx.github.io/static/media/bg_mechs.85d062d4.png"
+  },
+  {
+    "revision": "f6241db2fcc60786ff4e93b439b87855",
+    "url": "/hearthsfx.github.io/static/media/bg_pirates.6b6aba23.png"
+  },
+  {
+    "revision": "e84df2b0ccdd6745c850988d92814b09",
+    "url": "/hearthsfx.github.io/static/media/bg_murlocs.f76f8094.png"
+  },
+  {
+    "revision": "94c9f296212387c0a330118c67093820",
+    "url": "/hearthsfx.github.io/static/media/bg_dragons.e170ee50.png"
+  },
+  {
+    "revision": "9975c011d1a5857cb71fb1ecec98d4f7",
+    "url": "/hearthsfx.github.io/static/media/bg_neutrals.586b344a.png"
   },
   {
     "revision": "b2e0fc821c6886fb3940f85a3320003e",
@@ -160,16 +216,16 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/static/media/common_gem_small.c3cb9701.png"
   },
   {
-    "revision": "c6c5e26fb0e4601e6ea27d19bc176e56",
-    "url": "/hearthsfx.github.io/static/media/rare_gem_small.f2054728.png"
-  },
-  {
     "revision": "b07f901f15229a0650405f6d96fc7c0d",
     "url": "/hearthsfx.github.io/static/media/epic_gem_small.2056dd5b.png"
   },
   {
     "revision": "eaaea84078817b865a400a68a29c7c87",
     "url": "/hearthsfx.github.io/static/media/legendary_gem_small.60d2f3cd.png"
+  },
+  {
+    "revision": "c6c5e26fb0e4601e6ea27d19bc176e56",
+    "url": "/hearthsfx.github.io/static/media/rare_gem_small.f2054728.png"
   },
   {
     "revision": "1d69b9589be26c85d295fd8d3a98da58",
@@ -280,7 +336,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/expo-service-worker.js"
   },
   {
-    "revision": "deea2f59bba67001e56cffca55c5993b",
+    "revision": "0f5bf0131a8ab6a93383e86179e3d224",
     "url": "/hearthsfx.github.io/index.html"
   },
   {
@@ -293,7 +349,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "3c944d27a8e8bea454129d0bca04be04",
-    "url": "/hearthsfx.github.io/static/js/2.4256c6b5.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx.github.io/static/js/2.d1521a3b.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
