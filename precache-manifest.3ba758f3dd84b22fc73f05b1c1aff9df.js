@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "400697d51442392e4b56",
-    "url": "/hearthsfx.github.io/static/js/app.5d95ee84.chunk.js"
+    "revision": "cf45333b1601baf796b5",
+    "url": "/hearthsfx.github.io/static/js/app.5abe9921.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
@@ -332,20 +332,20 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "f328c398676e066fb4e76f0c028592b4",
-    "url": "/hearthsfx.github.io/expo-service-worker.js"
-  },
-  {
-    "revision": "0b9333a534c418f71927d9d5589851c3",
+    "revision": "685fbbfbc986ef5ec732deb766e98885",
     "url": "/hearthsfx.github.io/index.html"
-  },
-  {
-    "revision": "815a6e362ae2aac69e266b400978ef57",
-    "url": "/hearthsfx.github.io/register-service-worker.js"
   },
   {
     "revision": "ec543248d7b23864564429fc03837190",
     "url": "/hearthsfx.github.io/serve.json"
+  },
+  {
+    "revision": "2002987acac9deb6803ab4ba381226ba",
+    "url": "/hearthsfx.github.io/expo-service-worker.js"
+  },
+  {
+    "revision": "815a6e362ae2aac69e266b400978ef57",
+    "url": "/hearthsfx.github.io/register-service-worker.js"
   },
   {
     "revision": "3c944d27a8e8bea454129d0bca04be04",
