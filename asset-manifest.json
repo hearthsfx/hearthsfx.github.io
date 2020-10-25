@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/hearthsfx.github.io/static/js/app.baf3a6a0.chunk.js",
-    "app.js.map": "/hearthsfx.github.io/static/js/app.baf3a6a0.chunk.js.map",
+    "app.js": "/hearthsfx.github.io/static/js/app.6b4b22c1.chunk.js",
+    "app.js.map": "/hearthsfx.github.io/static/js/app.6b4b22c1.chunk.js.map",
     "runtime~app.js": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js",
     "runtime~app.js.map": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js.map",
-    "static/js/2.aa5ccbfa.chunk.js": "/hearthsfx.github.io/static/js/2.aa5ccbfa.chunk.js",
-    "static/js/2.aa5ccbfa.chunk.js.map": "/hearthsfx.github.io/static/js/2.aa5ccbfa.chunk.js.map",
+    "static/js/2.712c79d8.chunk.js": "/hearthsfx.github.io/static/js/2.712c79d8.chunk.js",
+    "static/js/2.712c79d8.chunk.js.map": "/hearthsfx.github.io/static/js/2.712c79d8.chunk.js.map",
     "fonts/AntDesign.ttf": "/hearthsfx.github.io/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/hearthsfx.github.io/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/hearthsfx.github.io/./fonts/Feather.ttf",
@@ -36,7 +36,7 @@
     "index.html": "/hearthsfx.github.io/index.html",
     "manifest.json": "/hearthsfx.github.io/manifest.json",
     "serve.json": "/hearthsfx.github.io/serve.json",
-    "static/js/2.aa5ccbfa.chunk.js.LICENSE.txt": "/hearthsfx.github.io/static/js/2.aa5ccbfa.chunk.js.LICENSE.txt",
+    "static/js/2.712c79d8.chunk.js.LICENSE.txt": "/hearthsfx.github.io/static/js/2.712c79d8.chunk.js.LICENSE.txt",
     "static/media/BOTIcon.png": "/hearthsfx.github.io/static/media/BOTIcon.e5ff7520.png",
     "static/media/BRMIcon.png": "/hearthsfx.github.io/static/media/BRMIcon.446540f2.png",
     "static/media/BTIcon.png": "/hearthsfx.github.io/static/media/BTIcon.1c69bd42.png",
@@ -96,7 +96,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.c0b8e656.js",
-    "static/js/2.aa5ccbfa.chunk.js",
-    "static/js/app.baf3a6a0.chunk.js"
+    "static/js/2.712c79d8.chunk.js",
+    "static/js/app.6b4b22c1.chunk.js"
   ]
 }
