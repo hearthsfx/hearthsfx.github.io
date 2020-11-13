@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "9041cca180109b42a226",
-    "url": "/hearthsfx.github.io/static/js/app.ad8665b9.chunk.js"
+    "revision": "392f05359f3b26dfa5a9",
+    "url": "/hearthsfx.github.io/static/js/app.34296e4f.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
     "url": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js"
   },
   {
-    "revision": "447ab9280757dcb876d9",
-    "url": "/hearthsfx.github.io/static/js/2.bc3ae0ca.chunk.js"
+    "revision": "74f5322f7fc4d3ac044c",
+    "url": "/hearthsfx.github.io/static/js/2.7d29fefb.chunk.js"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -114,6 +114,10 @@ self.__precacheManifest = [
   {
     "revision": "94c9f296212387c0a330118c67093820",
     "url": "/hearthsfx.github.io/static/media/bg_dragons.e170ee50.png"
+  },
+  {
+    "revision": "4c980b7f0bad01ddb49e5f47addd1fb6",
+    "url": "/hearthsfx.github.io/static/media/bg_elementals.09e2d395.png"
   },
   {
     "revision": "9975c011d1a5857cb71fb1ecec98d4f7",
@@ -336,7 +340,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "82d7eb32b3c9f2ea8e8858c6d105023b",
+    "revision": "f59ab3997b9f082439273fdb1c5a444a",
     "url": "/hearthsfx.github.io/index.html"
   },
   {
@@ -353,7 +357,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "6f7d0f4f9843a1416738a4d0ed7edd14",
-    "url": "/hearthsfx.github.io/static/js/2.bc3ae0ca.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx.github.io/static/js/2.7d29fefb.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
