@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/hearthsfx.github.io/static/js/app.ad8665b9.chunk.js",
-    "app.js.map": "/hearthsfx.github.io/static/js/app.ad8665b9.chunk.js.map",
+    "app.js": "/hearthsfx.github.io/static/js/app.34296e4f.chunk.js",
+    "app.js.map": "/hearthsfx.github.io/static/js/app.34296e4f.chunk.js.map",
     "runtime~app.js": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js",
     "runtime~app.js.map": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js.map",
-    "static/js/2.bc3ae0ca.chunk.js": "/hearthsfx.github.io/static/js/2.bc3ae0ca.chunk.js",
-    "static/js/2.bc3ae0ca.chunk.js.map": "/hearthsfx.github.io/static/js/2.bc3ae0ca.chunk.js.map",
+    "static/js/2.7d29fefb.chunk.js": "/hearthsfx.github.io/static/js/2.7d29fefb.chunk.js",
+    "static/js/2.7d29fefb.chunk.js.map": "/hearthsfx.github.io/static/js/2.7d29fefb.chunk.js.map",
     "fonts/AntDesign.ttf": "/hearthsfx.github.io/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/hearthsfx.github.io/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/hearthsfx.github.io/./fonts/Feather.ttf",
@@ -36,7 +36,7 @@
     "index.html": "/hearthsfx.github.io/index.html",
     "manifest.json": "/hearthsfx.github.io/manifest.json",
     "serve.json": "/hearthsfx.github.io/serve.json",
-    "static/js/2.bc3ae0ca.chunk.js.LICENSE.txt": "/hearthsfx.github.io/static/js/2.bc3ae0ca.chunk.js.LICENSE.txt",
+    "static/js/2.7d29fefb.chunk.js.LICENSE.txt": "/hearthsfx.github.io/static/js/2.7d29fefb.chunk.js.LICENSE.txt",
     "static/media/BOTIcon.png": "/hearthsfx.github.io/static/media/BOTIcon.e5ff7520.png",
     "static/media/BRMIcon.png": "/hearthsfx.github.io/static/media/BRMIcon.446540f2.png",
     "static/media/BTIcon.png": "/hearthsfx.github.io/static/media/BTIcon.1c69bd42.png",
@@ -64,6 +64,7 @@
     "static/media/bg_beasts.png": "/hearthsfx.github.io/static/media/bg_beasts.66b989b5.png",
     "static/media/bg_demons.png": "/hearthsfx.github.io/static/media/bg_demons.3aa3db7d.png",
     "static/media/bg_dragons.png": "/hearthsfx.github.io/static/media/bg_dragons.e170ee50.png",
+    "static/media/bg_elementals.png": "/hearthsfx.github.io/static/media/bg_elementals.09e2d395.png",
     "static/media/bg_mechs.png": "/hearthsfx.github.io/static/media/bg_mechs.85d062d4.png",
     "static/media/bg_murlocs.png": "/hearthsfx.github.io/static/media/bg_murlocs.f76f8094.png",
     "static/media/bg_neutrals.png": "/hearthsfx.github.io/static/media/bg_neutrals.586b344a.png",
@@ -97,7 +98,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.c0b8e656.js",
-    "static/js/2.bc3ae0ca.chunk.js",
-    "static/js/app.ad8665b9.chunk.js"
+    "static/js/2.7d29fefb.chunk.js",
+    "static/js/app.34296e4f.chunk.js"
   ]
 }
