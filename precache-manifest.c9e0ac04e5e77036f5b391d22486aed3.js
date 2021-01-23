@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "b9adcd64873557c6b67c",
-    "url": "/hearthsfx.github.io/static/js/app.9bc38bac.chunk.js"
+    "revision": "273af984f35db219f3ef",
+    "url": "/hearthsfx.github.io/static/js/app.1e87787d.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
     "url": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js"
   },
   {
-    "revision": "74f5322f7fc4d3ac044c",
-    "url": "/hearthsfx.github.io/static/js/2.7d29fefb.chunk.js"
+    "revision": "d1a3fed732a3433b562f",
+    "url": "/hearthsfx.github.io/static/js/2.ebf0ec39.chunk.js"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -324,6 +324,10 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/static/media/DMFIcon.f4c83930.png"
   },
   {
+    "revision": "a91e46f846f0c5b5035cadc145cbcc19",
+    "url": "/hearthsfx.github.io/static/media/DMFIcon_MiniSet.3af851b6.png"
+  },
+  {
     "revision": "3a2ba31570920eeb9b1d217cabe58315",
     "url": "/hearthsfx.github.io/./fonts/AntDesign.ttf"
   },
@@ -340,7 +344,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "eec8a6606ce83479ca34bc494974c1f2",
+    "revision": "080762bb7fbab5f6b199a1e98a03ee12",
     "url": "/hearthsfx.github.io/index.html"
   },
   {
@@ -357,7 +361,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "6f7d0f4f9843a1416738a4d0ed7edd14",
-    "url": "/hearthsfx.github.io/static/js/2.7d29fefb.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx.github.io/static/js/2.ebf0ec39.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
