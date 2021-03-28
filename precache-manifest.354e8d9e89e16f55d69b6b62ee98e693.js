@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "08c5ef7951f7ff6e751b",
-    "url": "/hearthsfx.github.io/static/js/app.373445ab.chunk.js"
+    "revision": "9adb148a33a028da3cf7",
+    "url": "/hearthsfx.github.io/static/js/app.df951f14.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
@@ -356,7 +356,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "88974e902fee0e4ac9276294247e1f7f",
+    "revision": "e1b7adb6e2bfbf0af76089aa7355bf6d",
     "url": "/hearthsfx.github.io/index.html"
   },
   {
