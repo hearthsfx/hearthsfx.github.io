@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "540b7a0a92312cdc432b",
-    "url": "/hearthsfx.github.io/static/js/app.afe844fe.chunk.js"
+    "revision": "0db5477f7acace92d251",
+    "url": "/hearthsfx.github.io/static/js/app.15cce43f.chunk.js"
   },
   {
     "revision": "b375efed2f5d2e4310e1",
     "url": "/hearthsfx.github.io/static/js/runtime~app.c0b8e656.js"
   },
   {
-    "revision": "96ad9358030a3f0f726c",
-    "url": "/hearthsfx.github.io/static/js/2.64d9ae72.chunk.js"
+    "revision": "48a34410ee7886ac1b42",
+    "url": "/hearthsfx.github.io/static/js/2.cc4f95ff.chunk.js"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -54,6 +54,10 @@ self.__precacheManifest = [
   {
     "revision": "e2fdb0dec4f7c3e792bf387a1f226fb2",
     "url": "/hearthsfx.github.io/static/media/class_small_neutral.d25d7174.png"
+  },
+  {
+    "revision": "be775a6ef238702405d0fed963e43044",
+    "url": "/hearthsfx.github.io/static/media/Set1_Icon.ac32ff2e.png"
   },
   {
     "revision": "75cd4693edc1d35ea56b9a65d7926a18",
@@ -120,8 +124,12 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/static/media/bg_neutrals.586b344a.png"
   },
   {
-    "revision": "be775a6ef238702405d0fed963e43044",
-    "url": "/hearthsfx.github.io/static/media/Set1_Icon.ac32ff2e.png"
+    "revision": "e6d44827e4b115067ab1bf28a2efc92b",
+    "url": "/hearthsfx.github.io/static/media/GryphonIcon.1968a040.png"
+  },
+  {
+    "revision": "6b24c6c7081a27e88e4cddd166eb9106",
+    "url": "/hearthsfx.github.io/static/media/ClassicIcon.fb07cda3.png"
   },
   {
     "revision": "b2e0fc821c6886fb3940f85a3320003e",
@@ -154,90 +162,6 @@ self.__precacheManifest = [
   {
     "revision": "d2285965fe34b05465047401b8595dd0",
     "url": "/hearthsfx.github.io/./fonts/SimpleLineIcons.ttf"
-  },
-  {
-    "revision": "4e15a2939a15dc5567da51d68116417c",
-    "url": "/hearthsfx.github.io/static/media/kofi.96681ac5.png"
-  },
-  {
-    "revision": "8f8d12b8691a706a99e7544bd33527c2",
-    "url": "/hearthsfx.github.io/static/media/bitcoin.ab09bc27.png"
-  },
-  {
-    "revision": "eeff16cc73d9458c9a865ddb1542c34d",
-    "url": "/hearthsfx.github.io/static/media/litecoin.e0409b43.png"
-  },
-  {
-    "revision": "321de678e592d0b8f44f1a82d7ca4b62",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_100Thin.ttf"
-  },
-  {
-    "revision": "35a9c89aff1396595ad345e378a32aca",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_100Thin_Italic.ttf"
-  },
-  {
-    "revision": "88823c2015ffd5fa89d567e17297a137",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_300Light.ttf"
-  },
-  {
-    "revision": "a3ce4440f2abf76f4a1b14b83920138c",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_300Light_Italic.ttf"
-  },
-  {
-    "revision": "11eabca2251325cfc5589c9c6fb57b46",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_400Regular.ttf"
-  },
-  {
-    "revision": "a720f17aa773e493a7ebf8b08459e66c",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_400Regular_Italic.ttf"
-  },
-  {
-    "revision": "58aef543c97bbaf6a9896e8484456d98",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_500Medium.ttf"
-  },
-  {
-    "revision": "cf23e1bb619029496260760b72aebd30",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_500Medium_Italic.ttf"
-  },
-  {
-    "revision": "e07df86cef2e721115583d61d1fb68a6",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_700Bold.ttf"
-  },
-  {
-    "revision": "5b44818d2b9eda3e23cd5edd7b49b7d5",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_700Bold_Italic.ttf"
-  },
-  {
-    "revision": "5ebb24ee1112dd9562629375c387879a",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_900Black.ttf"
-  },
-  {
-    "revision": "99682a78fa4fe61e1177b94757336bbf",
-    "url": "/hearthsfx.github.io/./fonts/Roboto_900Black_Italic.ttf"
-  },
-  {
-    "revision": "65b22f0323723ac333a398b6c74f71e5",
-    "url": "/hearthsfx.github.io/static/media/common_gem_small.c3cb9701.png"
-  },
-  {
-    "revision": "b07f901f15229a0650405f6d96fc7c0d",
-    "url": "/hearthsfx.github.io/static/media/epic_gem_small.2056dd5b.png"
-  },
-  {
-    "revision": "eaaea84078817b865a400a68a29c7c87",
-    "url": "/hearthsfx.github.io/static/media/legendary_gem_small.60d2f3cd.png"
-  },
-  {
-    "revision": "c6c5e26fb0e4601e6ea27d19bc176e56",
-    "url": "/hearthsfx.github.io/static/media/rare_gem_small.f2054728.png"
-  },
-  {
-    "revision": "e6d44827e4b115067ab1bf28a2efc92b",
-    "url": "/hearthsfx.github.io/static/media/GryphonIcon.1968a040.png"
-  },
-  {
-    "revision": "6b24c6c7081a27e88e4cddd166eb9106",
-    "url": "/hearthsfx.github.io/static/media/ClassicIcon.fb07cda3.png"
   },
   {
     "revision": "1d69b9589be26c85d295fd8d3a98da58",
@@ -340,6 +264,94 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/static/media/BARIcon.b0ffa042.png"
   },
   {
+    "revision": "a54458936def4dbaad9c908e59cdd53d",
+    "url": "/hearthsfx.github.io/static/media/GryphonIconSelected.6c7aa2ce.png"
+  },
+  {
+    "revision": "4c9c59bfc9b3701d93287d0cec0760fa",
+    "url": "/hearthsfx.github.io/static/media/Set1_IconSelected.824ca641.png"
+  },
+  {
+    "revision": "5f5e7a711a2dcd69e5291719f8dbcd4c",
+    "url": "/hearthsfx.github.io/static/media/ClassicIconSelected.4a1d9442.png"
+  },
+  {
+    "revision": "4e15a2939a15dc5567da51d68116417c",
+    "url": "/hearthsfx.github.io/static/media/kofi.96681ac5.png"
+  },
+  {
+    "revision": "8f8d12b8691a706a99e7544bd33527c2",
+    "url": "/hearthsfx.github.io/static/media/bitcoin.ab09bc27.png"
+  },
+  {
+    "revision": "eeff16cc73d9458c9a865ddb1542c34d",
+    "url": "/hearthsfx.github.io/static/media/litecoin.e0409b43.png"
+  },
+  {
+    "revision": "321de678e592d0b8f44f1a82d7ca4b62",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_100Thin.ttf"
+  },
+  {
+    "revision": "35a9c89aff1396595ad345e378a32aca",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_100Thin_Italic.ttf"
+  },
+  {
+    "revision": "88823c2015ffd5fa89d567e17297a137",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_300Light.ttf"
+  },
+  {
+    "revision": "a3ce4440f2abf76f4a1b14b83920138c",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_300Light_Italic.ttf"
+  },
+  {
+    "revision": "11eabca2251325cfc5589c9c6fb57b46",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_400Regular.ttf"
+  },
+  {
+    "revision": "a720f17aa773e493a7ebf8b08459e66c",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_400Regular_Italic.ttf"
+  },
+  {
+    "revision": "58aef543c97bbaf6a9896e8484456d98",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_500Medium.ttf"
+  },
+  {
+    "revision": "cf23e1bb619029496260760b72aebd30",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_500Medium_Italic.ttf"
+  },
+  {
+    "revision": "e07df86cef2e721115583d61d1fb68a6",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_700Bold.ttf"
+  },
+  {
+    "revision": "5b44818d2b9eda3e23cd5edd7b49b7d5",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_700Bold_Italic.ttf"
+  },
+  {
+    "revision": "5ebb24ee1112dd9562629375c387879a",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_900Black.ttf"
+  },
+  {
+    "revision": "99682a78fa4fe61e1177b94757336bbf",
+    "url": "/hearthsfx.github.io/./fonts/Roboto_900Black_Italic.ttf"
+  },
+  {
+    "revision": "65b22f0323723ac333a398b6c74f71e5",
+    "url": "/hearthsfx.github.io/static/media/common_gem_small.c3cb9701.png"
+  },
+  {
+    "revision": "b07f901f15229a0650405f6d96fc7c0d",
+    "url": "/hearthsfx.github.io/static/media/epic_gem_small.2056dd5b.png"
+  },
+  {
+    "revision": "eaaea84078817b865a400a68a29c7c87",
+    "url": "/hearthsfx.github.io/static/media/legendary_gem_small.60d2f3cd.png"
+  },
+  {
+    "revision": "c6c5e26fb0e4601e6ea27d19bc176e56",
+    "url": "/hearthsfx.github.io/static/media/rare_gem_small.f2054728.png"
+  },
+  {
     "revision": "3a2ba31570920eeb9b1d217cabe58315",
     "url": "/hearthsfx.github.io/./fonts/AntDesign.ttf"
   },
@@ -356,7 +368,7 @@ self.__precacheManifest = [
     "url": "/hearthsfx.github.io/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "2835b252b818a760232e2ba3618fcdf7",
+    "revision": "692ab549c69fdf5d8ce1730d026881ca",
     "url": "/hearthsfx.github.io/index.html"
   },
   {
@@ -373,7 +385,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "6f7d0f4f9843a1416738a4d0ed7edd14",
-    "url": "/hearthsfx.github.io/static/js/2.64d9ae72.chunk.js.LICENSE.txt"
+    "url": "/hearthsfx.github.io/static/js/2.cc4f95ff.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
