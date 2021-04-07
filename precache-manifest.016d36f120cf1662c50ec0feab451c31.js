@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "785fcfcb105f00cec1eb",
-    "url": "/static/js/app.96022326.chunk.js"
+    "revision": "7df47247e0f5100cd343",
+    "url": "/static/js/app.eccab924.chunk.js"
   },
   {
     "revision": "66090dc4495d4ce3dfb9",
     "url": "/static/js/runtime~app.2e9f1821.js"
   },
   {
-    "revision": "ca3a0e15b2be06a7f891",
-    "url": "/static/js/2.ddb94d89.chunk.js"
+    "revision": "7da9429caeec6a5783a5",
+    "url": "/static/js/2.f221f64d.chunk.js"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -368,7 +368,7 @@ self.__precacheManifest = [
     "url": "/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "0d9cdc16a81e06d3af67643c908edf65",
+    "revision": "c4fc6b18b8ad8226fce2d020dec412e2",
     "url": "/index.html"
   },
   {
@@ -385,7 +385,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "cabe76ca2e948dc75e9db9f40c0f198c",
-    "url": "/static/js/2.ddb94d89.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f221f64d.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
