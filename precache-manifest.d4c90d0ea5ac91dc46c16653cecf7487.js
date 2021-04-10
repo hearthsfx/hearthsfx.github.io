@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "7df47247e0f5100cd343",
-    "url": "/static/js/app.eccab924.chunk.js"
+    "revision": "3e9ce64ceba2b166172d",
+    "url": "/static/js/app.049b6777.chunk.js"
   },
   {
     "revision": "66090dc4495d4ce3dfb9",
@@ -368,7 +368,7 @@ self.__precacheManifest = [
     "url": "/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "c4fc6b18b8ad8226fce2d020dec412e2",
+    "revision": "03260643588f5c82d288c53e822096bd",
     "url": "/index.html"
   },
   {
