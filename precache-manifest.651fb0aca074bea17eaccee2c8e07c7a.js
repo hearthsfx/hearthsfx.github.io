@@ -1,15 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "8d84e9f385cbed1be29c",
-    "url": "/static/js/app.d561e4c3.chunk.js"
+    "revision": "d5d869f9a3f10585a96a",
+    "url": "/static/js/app.109f0d19.chunk.js"
   },
   {
     "revision": "66090dc4495d4ce3dfb9",
     "url": "/static/js/runtime~app.2e9f1821.js"
   },
   {
-    "revision": "569b1a4df3514309c4cf",
-    "url": "/static/js/2.6229a636.chunk.js"
+    "revision": "5539488194e84dead6d1",
+    "url": "/static/js/2.64deeb35.chunk.js"
+  },
+  {
+    "revision": "75cd4693edc1d35ea56b9a65d7926a18",
+    "url": "/static/media/exclude.46c8feb2.png"
+  },
+  {
+    "revision": "be775a6ef238702405d0fed963e43044",
+    "url": "/static/media/Set1_Icon.ac32ff2e.png"
   },
   {
     "revision": "cac0696d39f945c2424a76bef01dcb64",
@@ -56,12 +64,8 @@ self.__precacheManifest = [
     "url": "/static/media/class_small_neutral.d25d7174.png"
   },
   {
-    "revision": "be775a6ef238702405d0fed963e43044",
-    "url": "/static/media/Set1_Icon.ac32ff2e.png"
-  },
-  {
-    "revision": "75cd4693edc1d35ea56b9a65d7926a18",
-    "url": "/static/media/exclude.46c8feb2.png"
+    "revision": "ba9cd7334f6e0f9785b86c7a6a840455",
+    "url": "/static/media/techlevel0.fa35e5fc.png"
   },
   {
     "revision": "7e1532abf914f85af109e48d6d9c90e8",
@@ -88,28 +92,12 @@ self.__precacheManifest = [
     "url": "/static/media/techlevel6.7c39b1aa.png"
   },
   {
-    "revision": "ba9cd7334f6e0f9785b86c7a6a840455",
-    "url": "/static/media/techlevel0.fa35e5fc.png"
-  },
-  {
     "revision": "2001f24a1a745c60df187c1597dcaa50",
     "url": "/static/media/bg_beasts.66b989b5.png"
   },
   {
     "revision": "b0346a4611d465c8452cf315dfe73d64",
     "url": "/static/media/bg_demons.3aa3db7d.png"
-  },
-  {
-    "revision": "f8b7092b69cddd8b545aa9b1502b1519",
-    "url": "/static/media/bg_mechs.85d062d4.png"
-  },
-  {
-    "revision": "f6241db2fcc60786ff4e93b439b87855",
-    "url": "/static/media/bg_pirates.6b6aba23.png"
-  },
-  {
-    "revision": "e84df2b0ccdd6745c850988d92814b09",
-    "url": "/static/media/bg_murlocs.f76f8094.png"
   },
   {
     "revision": "94c9f296212387c0a330118c67093820",
@@ -120,8 +108,20 @@ self.__precacheManifest = [
     "url": "/static/media/bg_elementals.09e2d395.png"
   },
   {
+    "revision": "f8b7092b69cddd8b545aa9b1502b1519",
+    "url": "/static/media/bg_mechs.85d062d4.png"
+  },
+  {
+    "revision": "e84df2b0ccdd6745c850988d92814b09",
+    "url": "/static/media/bg_murlocs.f76f8094.png"
+  },
+  {
     "revision": "9975c011d1a5857cb71fb1ecec98d4f7",
     "url": "/static/media/bg_neutrals.586b344a.png"
+  },
+  {
+    "revision": "f6241db2fcc60786ff4e93b439b87855",
+    "url": "/static/media/bg_pirates.6b6aba23.png"
   },
   {
     "revision": "e6d44827e4b115067ab1bf28a2efc92b",
@@ -162,6 +162,22 @@ self.__precacheManifest = [
   {
     "revision": "d2285965fe34b05465047401b8595dd0",
     "url": "/./fonts/SimpleLineIcons.ttf"
+  },
+  {
+    "revision": "65b22f0323723ac333a398b6c74f71e5",
+    "url": "/static/media/common_gem_small.c3cb9701.png"
+  },
+  {
+    "revision": "b07f901f15229a0650405f6d96fc7c0d",
+    "url": "/static/media/epic_gem_small.2056dd5b.png"
+  },
+  {
+    "revision": "eaaea84078817b865a400a68a29c7c87",
+    "url": "/static/media/legendary_gem_small.60d2f3cd.png"
+  },
+  {
+    "revision": "c6c5e26fb0e4601e6ea27d19bc176e56",
+    "url": "/static/media/rare_gem_small.f2054728.png"
   },
   {
     "revision": "1d69b9589be26c85d295fd8d3a98da58",
@@ -264,6 +280,10 @@ self.__precacheManifest = [
     "url": "/static/media/BARIcon.b0ffa042.png"
   },
   {
+    "revision": "4b07212f6a995d9db2778d6255d23269",
+    "url": "/static/media/BARIcon_MiniSet.52cb1c42.png"
+  },
+  {
     "revision": "a54458936def4dbaad9c908e59cdd53d",
     "url": "/static/media/GryphonIconSelected.6c7aa2ce.png"
   },
@@ -336,22 +356,6 @@ self.__precacheManifest = [
     "url": "/./fonts/Roboto_900Black_Italic.ttf"
   },
   {
-    "revision": "65b22f0323723ac333a398b6c74f71e5",
-    "url": "/static/media/common_gem_small.c3cb9701.png"
-  },
-  {
-    "revision": "b07f901f15229a0650405f6d96fc7c0d",
-    "url": "/static/media/epic_gem_small.2056dd5b.png"
-  },
-  {
-    "revision": "eaaea84078817b865a400a68a29c7c87",
-    "url": "/static/media/legendary_gem_small.60d2f3cd.png"
-  },
-  {
-    "revision": "c6c5e26fb0e4601e6ea27d19bc176e56",
-    "url": "/static/media/rare_gem_small.f2054728.png"
-  },
-  {
     "revision": "3a2ba31570920eeb9b1d217cabe58315",
     "url": "/./fonts/AntDesign.ttf"
   },
@@ -368,7 +372,7 @@ self.__precacheManifest = [
     "url": "/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "0e06d635656a88320dbe929202210ef5",
+    "revision": "d7ed096949079e29caf4e73f6cf907ec",
     "url": "/index.html"
   },
   {
@@ -385,7 +389,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "54354e0c167775081c3ebcd8beb636cb",
-    "url": "/static/js/2.6229a636.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.64deeb35.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
