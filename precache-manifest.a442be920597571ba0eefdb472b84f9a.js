@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "d5d869f9a3f10585a96a",
-    "url": "/static/js/app.109f0d19.chunk.js"
+    "revision": "053ba6a6d62b8451785b",
+    "url": "/static/js/app.e5702b6b.chunk.js"
   },
   {
     "revision": "66090dc4495d4ce3dfb9",
     "url": "/static/js/runtime~app.2e9f1821.js"
   },
   {
-    "revision": "5539488194e84dead6d1",
-    "url": "/static/js/2.64deeb35.chunk.js"
+    "revision": "f0100e27b3631820f87f",
+    "url": "/static/js/2.0e4b066c.chunk.js"
   },
   {
     "revision": "75cd4693edc1d35ea56b9a65d7926a18",
@@ -284,6 +284,10 @@ self.__precacheManifest = [
     "url": "/static/media/BARIcon_MiniSet.52cb1c42.png"
   },
   {
+    "revision": "6c07cab0d29f896eec63134a7610ad5f",
+    "url": "/static/media/SWIcon.bbce98ee.png"
+  },
+  {
     "revision": "a54458936def4dbaad9c908e59cdd53d",
     "url": "/static/media/GryphonIconSelected.6c7aa2ce.png"
   },
@@ -372,7 +376,7 @@ self.__precacheManifest = [
     "url": "/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "d7ed096949079e29caf4e73f6cf907ec",
+    "revision": "f83992d77b4ff120d600e5abc5b3dbe8",
     "url": "/index.html"
   },
   {
@@ -389,7 +393,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "54354e0c167775081c3ebcd8beb636cb",
-    "url": "/static/js/2.64deeb35.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0e4b066c.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
