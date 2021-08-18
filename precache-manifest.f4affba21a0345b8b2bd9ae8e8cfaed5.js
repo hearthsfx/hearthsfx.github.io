@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "c7bbc4e2c221af5da2ff",
-    "url": "/static/js/app.92715725.chunk.js"
+    "revision": "bed48b90e84612b8297f",
+    "url": "/static/js/app.66bd501e.chunk.js"
   },
   {
     "revision": "66090dc4495d4ce3dfb9",
     "url": "/static/js/runtime~app.2e9f1821.js"
   },
   {
-    "revision": "f0100e27b3631820f87f",
-    "url": "/static/js/2.0e4b066c.chunk.js"
+    "revision": "e8170162c365c4633785",
+    "url": "/static/js/2.b06a143e.chunk.js"
   },
   {
     "revision": "75cd4693edc1d35ea56b9a65d7926a18",
@@ -90,6 +90,10 @@ self.__precacheManifest = [
   {
     "revision": "c7240a12c3af209a727fdd3316c8ff4f",
     "url": "/static/media/techlevel6.7c39b1aa.png"
+  },
+  {
+    "revision": "7509b70b88415f087523087c7eec11e0",
+    "url": "/static/media/bg_bartenders.b4dd822e.png"
   },
   {
     "revision": "2001f24a1a745c60df187c1597dcaa50",
@@ -376,7 +380,7 @@ self.__precacheManifest = [
     "url": "/./fonts/Fontisto.ttf"
   },
   {
-    "revision": "69770fad420a8d0386b529248d7feabc",
+    "revision": "c68eb40976a30c114154272c6fda62e0",
     "url": "/index.html"
   },
   {
@@ -393,7 +397,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "54354e0c167775081c3ebcd8beb636cb",
-    "url": "/static/js/2.0e4b066c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b06a143e.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e932a83d1b38bc43a980931beecedcea",
