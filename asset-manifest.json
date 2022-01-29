@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.ed2e95c1.chunk.js",
-    "app.js.map": "/static/js/app.ed2e95c1.chunk.js.map",
+    "app.js": "/static/js/app.3c5e3d11.chunk.js",
+    "app.js.map": "/static/js/app.3c5e3d11.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.3ed4f10e.chunk.js": "/static/js/2.3ed4f10e.chunk.js",
-    "static/js/2.3ed4f10e.chunk.js.map": "/static/js/2.3ed4f10e.chunk.js.map",
+    "static/js/2.652ffa97.chunk.js": "/static/js/2.652ffa97.chunk.js",
+    "static/js/2.652ffa97.chunk.js.map": "/static/js/2.652ffa97.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -36,7 +36,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.3ed4f10e.chunk.js.LICENSE.txt": "/static/js/2.3ed4f10e.chunk.js.LICENSE.txt",
+    "static/js/2.652ffa97.chunk.js.LICENSE.txt": "/static/js/2.652ffa97.chunk.js.LICENSE.txt",
     "static/media/AVIcon.png": "/static/media/AVIcon.2d47a674.png",
     "static/media/BARIcon.png": "/static/media/BARIcon.b0ffa042.png",
     "static/media/BARIcon_MiniSet.png": "/static/media/BARIcon_MiniSet.52cb1c42.png",
@@ -110,7 +110,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.3ed4f10e.chunk.js",
-    "static/js/app.ed2e95c1.chunk.js"
+    "static/js/2.652ffa97.chunk.js",
+    "static/js/app.3c5e3d11.chunk.js"
   ]
 }
