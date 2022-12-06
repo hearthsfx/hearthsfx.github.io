@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.ae0e0b89.chunk.js",
-    "app.js.map": "/static/js/app.ae0e0b89.chunk.js.map",
+    "app.js": "/static/js/app.15c406ab.chunk.js",
+    "app.js.map": "/static/js/app.15c406ab.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.b9edaa1a.chunk.js": "/static/js/2.b9edaa1a.chunk.js",
-    "static/js/2.b9edaa1a.chunk.js.map": "/static/js/2.b9edaa1a.chunk.js.map",
+    "static/js/2.3978dc30.chunk.js": "/static/js/2.3978dc30.chunk.js",
+    "static/js/2.3978dc30.chunk.js.map": "/static/js/2.3978dc30.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -36,7 +36,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.b9edaa1a.chunk.js.LICENSE.txt": "/static/js/2.b9edaa1a.chunk.js.LICENSE.txt",
+    "static/js/2.3978dc30.chunk.js.LICENSE.txt": "/static/js/2.3978dc30.chunk.js.LICENSE.txt",
     "static/media/AVIcon.png": "/static/media/AVIcon.2d47a674.png",
     "static/media/AVIcon_MiniSet.png": "/static/media/AVIcon_MiniSet.051189a3.png",
     "static/media/BARIcon.png": "/static/media/BARIcon.b0ffa042.png",
@@ -64,8 +64,10 @@
     "static/media/LOOTIcon.png": "/static/media/LOOTIcon.edfb0176.png",
     "static/media/NaxxIcon.png": "/static/media/NaxxIcon.3b105f8e.png",
     "static/media/OGIcon.png": "/static/media/OGIcon.53624503.png",
+    "static/media/PoAIcon.png": "/static/media/PoAIcon.40b532d8.png",
     "static/media/REVIcon.png": "/static/media/REVIcon.7b99553e.png",
     "static/media/REVIcon_MiniSet.png": "/static/media/REVIcon_MiniSet.2b015965.png",
+    "static/media/RLKIcon.png": "/static/media/RLKIcon.e94a3143.png",
     "static/media/SCHIcon.png": "/static/media/SCHIcon.5e6aa75c.png",
     "static/media/SCIcon.png": "/static/media/SCIcon.81ac9bbb.png",
     "static/media/SCIcon_MiniSet.png": "/static/media/SCIcon_MiniSet.1027d794.png",
@@ -87,6 +89,7 @@
     "static/media/bg_neutrals.png": "/static/media/bg_neutrals.586b344a.png",
     "static/media/bg_pirates.png": "/static/media/bg_pirates.6b6aba23.png",
     "static/media/bitcoin.png": "/static/media/bitcoin.ab09bc27.png",
+    "static/media/class_small_deathknight.png": "/static/media/class_small_deathknight.44129737.png",
     "static/media/class_small_demonhunter.png": "/static/media/class_small_demonhunter.27bc28b0.png",
     "static/media/class_small_druid.png": "/static/media/class_small_druid.b2cf4d40.png",
     "static/media/class_small_hunter.png": "/static/media/class_small_hunter.982db222.png",
@@ -115,7 +118,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.b9edaa1a.chunk.js",
-    "static/js/app.ae0e0b89.chunk.js"
+    "static/js/2.3978dc30.chunk.js",
+    "static/js/app.15c406ab.chunk.js"
   ]
 }
