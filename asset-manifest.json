@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.cf456583.chunk.js",
-    "app.js.map": "/static/js/app.cf456583.chunk.js.map",
+    "app.js": "/static/js/app.ed3d94e0.chunk.js",
+    "app.js.map": "/static/js/app.ed3d94e0.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.28dba7a7.chunk.js": "/static/js/2.28dba7a7.chunk.js",
-    "static/js/2.28dba7a7.chunk.js.map": "/static/js/2.28dba7a7.chunk.js.map",
+    "static/js/2.98626b57.chunk.js": "/static/js/2.98626b57.chunk.js",
+    "static/js/2.98626b57.chunk.js.map": "/static/js/2.98626b57.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -36,7 +36,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.28dba7a7.chunk.js.LICENSE.txt": "/static/js/2.28dba7a7.chunk.js.LICENSE.txt",
+    "static/js/2.98626b57.chunk.js.LICENSE.txt": "/static/js/2.98626b57.chunk.js.LICENSE.txt",
     "static/media/AVIcon.png": "/static/media/AVIcon.2d47a674.png",
     "static/media/AVIcon_MiniSet.png": "/static/media/AVIcon_MiniSet.051189a3.png",
     "static/media/BARIcon.png": "/static/media/BARIcon.b0ffa042.png",
@@ -61,6 +61,7 @@
     "static/media/GryphonIconSelected.png": "/static/media/GryphonIconSelected.6c7aa2ce.png",
     "static/media/GvGIcon.png": "/static/media/GvGIcon.8743247a.png",
     "static/media/HallOfFameIcon.png": "/static/media/HallOfFameIcon.37379c27.png",
+    "static/media/HydraIcon.png": "/static/media/HydraIcon.cf32ebca.png",
     "static/media/ICCIcon.png": "/static/media/ICCIcon.45a747ea.png",
     "static/media/KaraIcon.png": "/static/media/KaraIcon.c214d778.png",
     "static/media/LOEIcon.png": "/static/media/LOEIcon.9975dfb8.png",
@@ -83,6 +84,7 @@
     "static/media/TRLIcon.png": "/static/media/TRLIcon.a700a78e.png",
     "static/media/UNGIcon.png": "/static/media/UNGIcon.01f6a5f3.png",
     "static/media/UldumIcon.png": "/static/media/UldumIcon.76a3f13f.png",
+    "static/media/WolfIcon.png": "/static/media/WolfIcon.ada2fb5d.png",
     "static/media/bg_bartenders.png": "/static/media/bg_bartenders.b4dd822e.png",
     "static/media/bg_beasts.png": "/static/media/bg_beasts.66b989b5.png",
     "static/media/bg_demons.png": "/static/media/bg_demons.3aa3db7d.png",
@@ -123,7 +125,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.28dba7a7.chunk.js",
-    "static/js/app.cf456583.chunk.js"
+    "static/js/2.98626b57.chunk.js",
+    "static/js/app.ed3d94e0.chunk.js"
   ]
 }
