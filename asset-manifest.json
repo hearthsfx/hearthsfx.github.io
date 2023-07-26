@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.1aae900c.chunk.js",
-    "app.js.map": "/static/js/app.1aae900c.chunk.js.map",
+    "app.js": "/static/js/app.b2bcc2f7.chunk.js",
+    "app.js.map": "/static/js/app.b2bcc2f7.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.815263ef.chunk.js": "/static/js/2.815263ef.chunk.js",
-    "static/js/2.815263ef.chunk.js.map": "/static/js/2.815263ef.chunk.js.map",
+    "static/js/2.af3904f7.chunk.js": "/static/js/2.af3904f7.chunk.js",
+    "static/js/2.af3904f7.chunk.js.map": "/static/js/2.af3904f7.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -36,7 +36,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.815263ef.chunk.js.LICENSE.txt": "/static/js/2.815263ef.chunk.js.LICENSE.txt",
+    "static/js/2.af3904f7.chunk.js.LICENSE.txt": "/static/js/2.af3904f7.chunk.js.LICENSE.txt",
     "static/media/AVIcon.png": "/static/media/AVIcon.2d47a674.png",
     "static/media/AVIcon_MiniSet.png": "/static/media/AVIcon_MiniSet.051189a3.png",
     "static/media/BARIcon.png": "/static/media/BARIcon.b0ffa042.png",
@@ -82,6 +82,9 @@
     "static/media/Set1_IconSelected.png": "/static/media/Set1_IconSelected.824ca641.png",
     "static/media/TGTIcon.png": "/static/media/TGTIcon.253b1f48.png",
     "static/media/TRLIcon.png": "/static/media/TRLIcon.a700a78e.png",
+    "static/media/TTNIcon.png": "/static/media/TTNIcon.fc170b88.png",
+    "static/media/TTNIcon_MiniSet.png": "/static/media/TTNIcon_MiniSet.4bd42b59.png",
+    "static/media/TwistIcon.png": "/static/media/TwistIcon.1862972a.png",
     "static/media/UNGIcon.png": "/static/media/UNGIcon.01f6a5f3.png",
     "static/media/UldumIcon.png": "/static/media/UldumIcon.76a3f13f.png",
     "static/media/WolfIcon.png": "/static/media/WolfIcon.ada2fb5d.png",
@@ -125,7 +128,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.815263ef.chunk.js",
-    "static/js/app.1aae900c.chunk.js"
+    "static/js/2.af3904f7.chunk.js",
+    "static/js/app.b2bcc2f7.chunk.js"
   ]
 }
