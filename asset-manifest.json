@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.105e193b.chunk.js",
-    "app.js.map": "/static/js/app.105e193b.chunk.js.map",
+    "app.js": "/static/js/app.1349452d.chunk.js",
+    "app.js.map": "/static/js/app.1349452d.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.af3904f7.chunk.js": "/static/js/2.af3904f7.chunk.js",
-    "static/js/2.af3904f7.chunk.js.map": "/static/js/2.af3904f7.chunk.js.map",
+    "static/js/2.bb8136dc.chunk.js": "/static/js/2.bb8136dc.chunk.js",
+    "static/js/2.bb8136dc.chunk.js.map": "/static/js/2.bb8136dc.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -36,7 +36,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.af3904f7.chunk.js.LICENSE.txt": "/static/js/2.af3904f7.chunk.js.LICENSE.txt",
+    "static/js/2.bb8136dc.chunk.js.LICENSE.txt": "/static/js/2.bb8136dc.chunk.js.LICENSE.txt",
     "static/media/AVIcon.png": "/static/media/AVIcon.2d47a674.png",
     "static/media/AVIcon_MiniSet.png": "/static/media/AVIcon_MiniSet.051189a3.png",
     "static/media/BARIcon.png": "/static/media/BARIcon.b0ffa042.png",
@@ -54,7 +54,6 @@
     "static/media/DMFIcon_MiniSet.png": "/static/media/DMFIcon_MiniSet.3af851b6.png",
     "static/media/DRGIcon.png": "/static/media/DRGIcon.bde25580.png",
     "static/media/DRGIcon_MiniSet.png": "/static/media/DRGIcon_MiniSet.a5fcd6d5.png",
-    "static/media/FSG_major_icon_79.png": "/static/media/FSG_major_icon_79.7f8812e7.png",
     "static/media/GILIcon.png": "/static/media/GILIcon.836508be.png",
     "static/media/GangsIcon.png": "/static/media/GangsIcon.be4ad498.png",
     "static/media/GryphonIcon.png": "/static/media/GryphonIcon.1968a040.png",
@@ -87,6 +86,8 @@
     "static/media/TwistIcon.png": "/static/media/TwistIcon.1862972a.png",
     "static/media/UNGIcon.png": "/static/media/UNGIcon.01f6a5f3.png",
     "static/media/UldumIcon.png": "/static/media/UldumIcon.76a3f13f.png",
+    "static/media/WWIcon.png": "/static/media/WWIcon.23cd470f.png",
+    "static/media/WWIcon_MiniSet.png": "/static/media/WWIcon_MiniSet.fc85c51e.png",
     "static/media/WolfIcon.png": "/static/media/WolfIcon.ada2fb5d.png",
     "static/media/bg_bartenders.png": "/static/media/bg_bartenders.b4dd822e.png",
     "static/media/bg_beasts.png": "/static/media/bg_beasts.66b989b5.png",
@@ -123,12 +124,11 @@
     "static/media/techlevel3.png": "/static/media/techlevel3.aee75764.png",
     "static/media/techlevel4.png": "/static/media/techlevel4.ad86b855.png",
     "static/media/techlevel5.png": "/static/media/techlevel5.deed6cbf.png",
-    "static/media/techlevel6.png": "/static/media/techlevel6.7c39b1aa.png",
-    "static/media/twitter.png": "/static/media/twitter.1cb2dbe4.png"
+    "static/media/techlevel6.png": "/static/media/techlevel6.7c39b1aa.png"
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.af3904f7.chunk.js",
-    "static/js/app.105e193b.chunk.js"
+    "static/js/2.bb8136dc.chunk.js",
+    "static/js/app.1349452d.chunk.js"
   ]
 }
