@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/static/js/app.0439529b.chunk.js",
-    "app.js.map": "/static/js/app.0439529b.chunk.js.map",
+    "app.js": "/static/js/app.389a2198.chunk.js",
+    "app.js.map": "/static/js/app.389a2198.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
     "static/js/2.bb8136dc.chunk.js": "/static/js/2.bb8136dc.chunk.js",
@@ -87,7 +87,7 @@
     "static/media/UNGIcon.png": "/static/media/UNGIcon.01f6a5f3.png",
     "static/media/UldumIcon.png": "/static/media/UldumIcon.76a3f13f.png",
     "static/media/WWIcon.png": "/static/media/WWIcon.23cd470f.png",
-    "static/media/WWIcon_MiniSet.png": "/static/media/WWIcon_MiniSet.fc85c51e.png",
+    "static/media/WWIcon_MiniSet.png": "/static/media/WWIcon_MiniSet.0cb65490.png",
     "static/media/WolfIcon.png": "/static/media/WolfIcon.ada2fb5d.png",
     "static/media/bg_bartenders.png": "/static/media/bg_bartenders.b4dd822e.png",
     "static/media/bg_beasts.png": "/static/media/bg_beasts.66b989b5.png",
@@ -129,6 +129,6 @@
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
     "static/js/2.bb8136dc.chunk.js",
-    "static/js/app.0439529b.chunk.js"
+    "static/js/app.389a2198.chunk.js"
   ]
 }
